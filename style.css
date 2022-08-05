@@ -41,4 +41,26 @@ img{
     padding-left: 40%;
     padding-bottom: 5%;
 }
-
+a:link {
+    color: rgb(27, 14, 59);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: rgb(4, 144, 238);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: rgb(210, 110, 219);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
